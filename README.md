@@ -9,7 +9,7 @@ Aplicación informativa sobre las cotizaciones en tiempo real sobre tus criptomo
 
 ## EMAIL DE EJEMPLO
 
-<img src="./public/IMG/example-mail.jpeg" width="500">
+<img src="./public/IMG/example-mail.jpeg" width="400">
 
 
 ## CONSIDERACIONES
