@@ -7,12 +7,12 @@
 Aplicación informativa sobre las cotizaciones en tiempo real sobre tus criptomonedas alojadas en la wallet de Ripio, realizada en NodeJS, consumiendo la API de Ripio para acceder a la wallet personal, web scrapping para las cotizaciones y nodemailer para los avisos al usuario.  
 
 
-# EMAIL DE EJEMPLO
+## EMAIL DE EJEMPLO
 
 <img src="./public/IMG/example-mail.jpeg" width="500">
 
 
-# CONSIDERACIONES
+## CONSIDERACIONES
 
 - Debes obtener tu key personal en la documentacion de la API de RIPIO y colocarla dentro del modulo request.js
 
