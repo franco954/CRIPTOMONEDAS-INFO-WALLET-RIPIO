@@ -19,7 +19,7 @@ Aplicación informativa sobre las cotizaciones en tiempo real sobre tus criptomo
 - Colocar correo que envia el mail dentro del modulo nodemailer.js
 - Debes colocar la direccion de correo electronico receptora, en el caso de ser mas de una separarlas con comas ej: 'mail1@gmail.com,mail2@gmail.com,mail3@gmail.com'
 
-(es buena practica tener todos estos datos sensibles en un file .env y llamarlas en los modulos como variables de entorno)
+
 
 
 
