@@ -2,5 +2,6 @@
 
 
 # dependencies
-/node_modules
-/notas.txt
+node_modules
+notas.txt
+.env

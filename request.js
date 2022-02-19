@@ -3,7 +3,7 @@ const axios = require("axios");
 const URL = "https://api.exchange.ripio.com/api/v1/balances/wallet_balances/";
 
 // AGREGAR KEY DE TU CUENTA DE RIPIO
-let keys = "";
+let keys = process.env.KEY;
 let dat = "";
 
 
